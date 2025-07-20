@@ -5,4 +5,5 @@ This is a stats engine that carries out hypothesis tests for the binomial distri
 The binomial distribution is as follows:
 <br />
 $$\text{For the binomial distribution } X \sim B(n,p)$$
+<br />
 $$P(X=x) = \frac{n!}{(n-x)!x!} p^n (1-p)^{n-x}$$
