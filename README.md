@@ -9,3 +9,6 @@ $$\text{For the binomial distribution } X \sim B(n,p)$$
 <br />
 <br />
 $$P(X=x) = \frac{n!}{(n-x)!x!} p^n (1-p)^{n-x}$$
+<br />
+<br />
+i wrote this latex to make the docs look cool, really and truly theres nothing mathematically exciting going on here, now fuck off
